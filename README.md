@@ -23,7 +23,7 @@ med3d-project/
 │   └── pipeline.py            
 │
 ├── results/
-│   ├── mesh_snapshot.png      # Beispielhafte 3D-Darstellung
+│   ├── mesh_snapshot.png      
 │   └── segmentation_overlay.png
 │
 
