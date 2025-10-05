@@ -36,4 +36,4 @@ venv\Scripts\activate
 python src/pipeline.py
 
 
-Das Ergebnis wird als interaktive 3D-Darstellung angezeigt und im results/-Ordner gespeichert.
+Das Ergebnis wird als interaktive 3D-Darstellung angezeigt und im results gespeichert.
